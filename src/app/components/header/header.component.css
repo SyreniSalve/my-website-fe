@@ -1,0 +1,17 @@
+.example-spacer {
+  flex: 1 1 auto;
+}
+
+.logo-span {
+  margin-top: 104px;
+}
+
+.logo {
+  height: 80%;
+  width: 80%;
+}
+
+.mat-toolbar-row, .mat-toolbar-single-row {
+  height: 45px;
+}
+
